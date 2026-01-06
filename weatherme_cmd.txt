@@ -1,0 +1,1 @@
+pyinstaller --onedir --console --windowed --add-data "assets;assets" --add-data "screens;screens" --add-data "services;services" --add-data "utils.py;." --add-data "config.py;." main.py
