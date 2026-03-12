@@ -70,15 +70,23 @@ Assets: Custom pixel art created by the developer
 9. Structure
 Weather-Me
 ├── __pyache__
+
 │
+
 ├── assets
 
 │   ├── fonts
+
 │   ├── icons
+
 │   ├── music
+
 │   ├── screen
+
 │   ├── theme_toggle
+
 │   └── volume
+
 │
 ├── build
 │   ├── main
