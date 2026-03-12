@@ -69,6 +69,7 @@ Assets: Custom pixel art created by the developer
 
 9. Structure
 Weather-Me
+
 ├── __pyache__
 
 │
@@ -88,28 +89,50 @@ Weather-Me
 │   └── volume
 
 │
+
 ├── build
+
 │   ├── main
+
 │       ├── localpycs
+
 │       ├── Analysis-00.toc
+
 │       ├── base_library
+
 │       ├── COLLECT-00.toc
+
 │       ├── EXE-00.toc
+
 │       ├── main.exe
+
 │       ├── main.pkg
+
 │       ├── PKG-00.toc
+
 │       ├── PYZ-00.pyz
+
 │       ├── PYZ-00.toc
+
 │       ├── warn-main.txt
+
 │       └── xref-main.html
+
 │
 ├── dist
+
 │   ├── main
+
 │       ├── _internal
+
 │       ├── main.exe
+
 │       └── weatherme.zip
+
 │
+
 ├── screens
+
 │   ├── __pyache__
 │   ├── __init__.py
 │   ├── info.py
