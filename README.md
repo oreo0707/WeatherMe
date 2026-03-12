@@ -76,17 +76,17 @@ Weather-Me
 
 ├── assets
 
-│     ├── fonts
+│    ├── fonts
 
-│     ├── icons
+│    ├── icons
 
-│     ├── music
+│    ├── music
 
-│     ├── screen
+│    ├── screen
 
-│     ├── theme_toggle
+│    ├── theme_toggle
 
-│     └── volume
+│    └── volume
 
 │
 
@@ -134,41 +134,77 @@ Weather-Me
 ├── screens
 
 │   ├── __pyache__
+
 │   ├── __init__.py
+
 │   ├── info.py
+
 │   ├── menu.py
+
 │   ├── settings.py
+
 │   └── weather.py
+
 │
+
 ├── screenshots
+
 │   ├── light_info
+
 │   ├── light_settings
+
 │   ├── light_menu
+
 │   ├── light_weather_sunny
+
 │   ├── light_weather_rain
+
 │   ├── light_weather_cloudy
+
 │   ├── light_weather_snow
+
 │   ├── light_weather_storm
+
 │   ├── dark_info
+
 │   ├── dark_settings
+
 │   ├── dark_menu
+
 │   ├── dark_weather_sunny
+
 │   ├── dark_weather_rain
+
 │   ├── dark_weather_cloudy
+
 │   ├── dark_weather_snow
+
 │   └── dark_weather_storm
+
 │
+
 ├── services
+
 │   ├── __pyache__
+
 │   ├── __init__.py
+
 │   └── weather_api.py
+
 │
+
 ├── .gitattributes
+
 ├── config.py
+
 ├── utils.py
+
 ├── main.py
+
 ├── main.spec
+
 ├── weatherme.zip
+
 └── weatherme_cmd.txt
 
 11. Installation
