@@ -207,11 +207,11 @@ Weather-Me
 
 └── weatherme_cmd.txt
 
-11. Installation
-1. Download weatherme.zip
-2. Navigate to assets and download the font(.ttf)
-3. Build executable using weatherme_cmd.txt
-4. Run the application in dist/main/main.exe
+10. Installation
+  1. Download weatherme.zip
+  2. Navigate to assets and download the font(.ttf)
+  3. Build executable using weatherme_cmd.txt
+  4. Run the application in dist/main/main.exe
 
 11. Skills Demonstrated
   - GUI development with Tkinter
