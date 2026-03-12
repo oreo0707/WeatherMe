@@ -72,6 +72,7 @@ Weather-Me
 ├── __pyache__
 │
 ├── assets
+
 │   ├── fonts
 │   ├── icons
 │   ├── music
@@ -139,7 +140,7 @@ Weather-Me
 ├── weatherme.zip
 └── weatherme_cmd.txt
 
-10. Installation
+11. Installation
 1. Download weatherme.zip
 2. Navigate to assets and download the font(.ttf)
 3. Build executable using weatherme_cmd.txt
