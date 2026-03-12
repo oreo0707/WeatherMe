@@ -76,17 +76,17 @@ Weather-Me
 
 ├── assets
 
-│   ├── fonts
+│     ├── fonts
 
-│   ├── icons
+│     ├── icons
 
-│   ├── music
+│     ├── music
 
-│   ├── screen
+│     ├── screen
 
-│   ├── theme_toggle
+│     ├── theme_toggle
 
-│   └── volume
+│     └── volume
 
 │
 
